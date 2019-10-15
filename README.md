@@ -1,13 +1,13 @@
 # Programmiersprachen I
 ![Cover](cover.png)
 
-**Repository für den Kurs „Programmiersprachen I“ im Wintersemester 2019/20 an der HfG Schwäbisch Gmünd.
+**Repository für den Kurs „Programmiersprachen I“ im Wintersemester 2019/20 an der HfG Schwäbisch Gmünd.**
 
 ## Tools
 | Tool | Dokumentation | Beschreibung |
 |---|---|---|
 | *Browser* |  | Ein moderner Browser, [Chrome](https://www.google.com/chrome/) wird empfohlen
-| [p5.js Webeditor](https://editor.p5js.org) | | Webeditor für p5.js, zum Speichern der Sketches muss ein Account erstellt werden
+| [p5.js Editor](https://editor.p5js.org) | | Webeditor für p5.js, zum Speichern der Sketches muss ein Account erstellt werden
 | [Glitch](https://glitch.com) | [Hilfe](https://glitch.com/help/) |  Eine Online-Plattform zum Bearbeiten und Teilen von Web-Projekten
 | [p5.js](https://p5js.org) | [Referenz](https://p5js.org/reference/) |  Javascript-Bibliothek für Creative Coding
 | [Slack](https://slack.com/intl/de-de/) | [Hilfe](https://slack.com/intl/de-de/help) | Messenger für Teams
